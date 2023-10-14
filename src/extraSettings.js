@@ -38,7 +38,7 @@ let clickChangeFruit = true;
 let adLink = 'https://yt3.googleusercontent.com/3KztbFGWaSjtNfOTc32Z7NiL31HS9KHxdh6V20xsTITmSFstS_K1p1nhTxmS0HG24mRQETKnFA=s176-c-k-c0x00ffffff-no-rj';
 
 // 修改网页标题：将 "合成大西瓜" 进行替换
-document.getElementsByTagName("title")[0].innerText = '合成大西瓜';
+document.getElementsByTagName("title")[0].innerText = '하유수박게임';
 
 // 开启选分弹窗：将 false 改为 true
 let selectModal = false;
